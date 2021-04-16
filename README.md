@@ -1,4 +1,4 @@
-# College-Time
+# College-Time ![] (College Time.png)
 
 ## Frontend pages develoved for CollegeTime
 ### Welcome to college time page [Link 1](https://priyansh-design.github.io/College-Time/page%201/main%20page.html)
