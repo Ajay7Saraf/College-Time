@@ -1,7 +1,6 @@
 # College-Time 
 ![](https://github.com/Ajay7Saraf/College-Time/blob/main/page%203/images/logo%20ct.co-01.png)
 
-## Frontend pages develoved for CollegeTime
 ## What did we learn?
 
 We knew the basics of frontend developement were the 3 languages HTML, CSS, JAVASCRIPT. Before heading up into backend we wanted to know more about APIs(application programming interface). Thus, we learned how we can drastically increase the useability of any site by simply using such APIs to fulfill our requirements. It improves the productivity of the site and we can use the data fetched from them in different ways according to the need. Therefore we learned :
